@@ -1,0 +1,12 @@
+{
+  "id": 2,
+  "name": "Rachel doe",
+  "email": "racheldoe@example.com",
+  "phone": "0987654321",
+  "city": "San Francisco",
+  "state": "California",
+  "country": "USA",
+  "organization": "Company B",
+  "jobProfile": "Product Manager",
+  "additionalInfo": "Focusing on AI-driven products"
+}

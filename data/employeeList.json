@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "phone": "1234567890",
+    "city": "New York",
+    "state": "New York",
+    "country": "USA",
+    "organization": "Company A",
+    "jobProfile": "Software Engineer",
+    "additionalInfo": "Interested in cloud technologies"
+  },
+  {
+    "id": 2,
+    "name": "Rachel doe",
+    "email": "racheldoe@example.com",
+    "phone": "0987654321",
+    "city": "San Francisco",
+    "state": "California",
+    "country": "USA",
+    "organization": "Company B",
+    "jobProfile": "Product Manager",
+    "additionalInfo": "Focusing on AI-driven products"
+  },
+  {
+    "id": 3,
+    "name": "Divya Verma",
+    "email": "divyaverma@example.com",
+    "phone": "9876655433",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "country": "India",
+    "organization": "Company C",
+    "jobProfile": "Product Engineer",
+    "additionalInfo": "Focusing on Product Development and Implemenatation activities"
+  }
+]
