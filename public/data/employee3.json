@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "Divya Verma",
+  "email": "divyaverma@example.com",
+  "phone": "9876655433",
+  "city": "Bangalore",
+  "state": "Karnataka",
+  "country": "India",
+  "organization": "Company C",
+  "jobProfile": "Product Engineer",
+  "additionalInfo": "Focusing on Product Development and Implemenatation activities"
+}
