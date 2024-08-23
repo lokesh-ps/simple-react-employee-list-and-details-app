@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/simple-react-employee-list-and-details-app/static/css/main.9f3d8091.css",
-    "main.js": "/simple-react-employee-list-and-details-app/static/js/main.b053791e.js",
+    "main.js": "/simple-react-employee-list-and-details-app/static/js/main.17b3de1f.js",
     "static/js/453.27118b4b.chunk.js": "/simple-react-employee-list-and-details-app/static/js/453.27118b4b.chunk.js",
     "static/media/logo.svg": "/simple-react-employee-list-and-details-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/simple-react-employee-list-and-details-app/index.html",
     "main.9f3d8091.css.map": "/simple-react-employee-list-and-details-app/static/css/main.9f3d8091.css.map",
-    "main.b053791e.js.map": "/simple-react-employee-list-and-details-app/static/js/main.b053791e.js.map",
+    "main.17b3de1f.js.map": "/simple-react-employee-list-and-details-app/static/js/main.17b3de1f.js.map",
     "453.27118b4b.chunk.js.map": "/simple-react-employee-list-and-details-app/static/js/453.27118b4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f3d8091.css",
-    "static/js/main.b053791e.js"
+    "static/js/main.17b3de1f.js"
   ]
 }
