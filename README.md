@@ -14,9 +14,9 @@ The project Template can be used to build bigger projects
 
 ## Live Application URL
 
-###
+### "https://lokeshpspsl522.github.io/simple-react-employee-list-and-details-app"
 
-This URL has the application deployed in
+This URL has the application deployed in "https://lokeshpspsl522.github.io/simple-react-employee-list-and-details-app"
 
 ## Prerequisites
 
