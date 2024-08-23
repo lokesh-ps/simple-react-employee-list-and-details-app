@@ -25,7 +25,7 @@ const EmployeeDetails = ({ val }: any) => {
   }, [val]);
   async function getEmployeeDetails(id: any) {
     try {
-      const response = await axios.get("/data/employee" + id + ".json"); // Replace with your local endpoint
+      const response = await axios.get("data/employee" + id + ".json"); // Replace with your local endpoint
       setEmployeeDetails(response);
     } catch (error: any) {
       console.error("Error fetching data:", error.message); // Handle the error
