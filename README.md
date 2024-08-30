@@ -12,12 +12,6 @@ This Project is a Simple ReactJS Project which demonstrates the following
 
 The project Template can be used to build bigger projects
 
-## Live Application URL
-
-### "https://lokeshpspsl522.github.io/simple-react-employee-list-and-details-app"
-
-This URL has the application deployed in "https://lokeshpspsl522.github.io/simple-react-employee-list-and-details-app"
-
 ## Prerequisites
 
 ### Install Node JS
@@ -34,7 +28,9 @@ npm install -g create-react-app
 
 ## Live Application URL
 
-The Application is deployed in
+### "https://lokeshpspsl522.github.io/simple-react-employee-list-and-details-app"
+
+This URL has the application deployed in "https://lokeshpspsl522.github.io/simple-react-employee-list-and-details-app"
 
 Click on the link to see the application
 
