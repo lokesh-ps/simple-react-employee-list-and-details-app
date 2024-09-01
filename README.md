@@ -56,9 +56,9 @@ The Application Runs on **localhost:3000**
 
 #### Components
 
-1. **Employees** Component : This Component displays a list of employees. This Component gets the data from a json file in assets folder
+1. **Employees** Component : This Component displays a list of employees. This Component gets the data from a json file in public/data folder
 
-2. **EmployeeDetails** Component : This Component Displays the details of the selected employee. This Component gets its data from a json file in assets folder as well. This Component is the Child Component of _Employees_ Component
+2. **EmployeeDetails** Component : This Component Displays the details of the selected employee. This Component gets its data from a json file in public/data folder as well. This Component is the Child Component of _Employees_ Component
 
 #### HTTP client
 
