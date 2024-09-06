@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Employees from "./components/Employees";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
   Redirect,
