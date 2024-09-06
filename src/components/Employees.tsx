@@ -10,7 +10,7 @@ const Employees = (value: any) => {
 
   async function getEmployeeData() {
     try {
-      const response = await axios.get("data/employeelist.json"); // Replace with your local endpoint
+      const response = await axios.get("data/employeeList.json"); // Replace with your local endpoint
       setEmployeeList(response);
     } catch (error: any) {
       console.error("Error fetching data:", error.message); // Handle the error
