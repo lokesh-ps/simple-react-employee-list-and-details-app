@@ -28,9 +28,9 @@ npm install -g create-react-app
 
 ## Live Application URL
 
-### "https://lokesh-ps.github.io/simple-react-employee-list-and-details-app/"
+### "https://lokesh-ps.github.io/simple-react-employee-list-and-details-app/#/"
 
-This URL has the application deployed in "https://lokesh-ps.github.io/simple-react-employee-list-and-details-app/"
+This URL has the application deployed in "https://lokesh-ps.github.io/simple-react-employee-list-and-details-app/#/"
 
 Click on the link to see the application
 
