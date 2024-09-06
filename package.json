@@ -2,7 +2,7 @@
   "name": "simple-react-employee-list-and-details-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lokeshpspsl522.github.io/simple-react-employee-list-and-details-app/",
+  "homepage": "https://lokesh-ps.github.io/simple-react-employee-list-and-details-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
